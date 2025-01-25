@@ -1,4 +1,4 @@
-# 📊 Análisis de Datos y Web Scraping con Python: PEC 3
+# 📊 Análisis de Datos y Web Scraping con Python
 
 ## 📚 Contenidos
 
