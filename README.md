@@ -3,16 +3,16 @@
 ## 📚 Contenidos
 
 1. [Introducción](#introducción)
-2. [apartado 4: Anonimización de Datos](#apartado-4-anonimización-de-datos)
+2. [Apartado 4: Anonimización de Datos](#apartado-4-anonimización-de-datos)
    - Presentación y generación del dataset
    - Importación del dataset
    - Proceso de anonimización
-3. [apartado 5: Web Scraping y Representación Gráfica](#apartado-5-web-scraping-y-representación-gráfica)
+3. [Apartado 5: Web Scraping y Representación Gráfica](#apartado-5-web-scraping-y-representación-gráfica)
    - Extracción de citas de Marilyn Monroe
    - Análisis de autores más citados
    - Distribución de citas por etiquetas
    - Análisis de sentimientos de citas
-4. [apartado 6: Acceso a Datos Abiertos del INE](#apartado-6-acceso-a-datos-abiertos-del-ine)
+4. [Apartado 6: Acceso a Datos Abiertos del INE](#apartado-6-acceso-a-datos-abiertos-del-ine)
    - Descarga de datos de viviendas turísticas
    - Representación de datos estadísticos
    - Análisis de datos adicionales
@@ -30,7 +30,7 @@ Este repositorio contiene la resolución de la PEC 3, donde se abordan diversos 
 
 ---
 
-## 🛡️ apartado 4: Anonimización de Datos
+## 🛡️ Apartado 4: Anonimización de Datos
 
 ### 📄 Descripción
 
@@ -48,7 +48,7 @@ Se trabaja con un conjunto de datos de pacientes con diabetes tipo II, utilizand
 
 ---
 
-## 🌐 apartado 5: Web Scraping y Representación Gráfica
+## 🌐 Apartado 5: Web Scraping y Representación Gráfica
 
 ### 📄 Descripción
 
@@ -76,7 +76,7 @@ En este apartado se extraen citas de la web `quotes.toscrape.com` y se represent
 
 ---
 
-## 🏡 apartado 6: Acceso a Datos Abiertos del INE
+## 🏡 Apartado 6: Acceso a Datos Abiertos del INE
 
 ### 📄 Descripción
 
